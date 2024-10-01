@@ -1,3 +1,3 @@
 # Demo2
 Practicing git
-Author : Mrunalini Pachpute
+Author : Mrunalini Pachpute(Mrunu)
